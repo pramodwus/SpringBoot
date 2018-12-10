@@ -1,0 +1,13 @@
+<%@taglib prefix="c" uri="http://java.sum.com/jsp/jstl/core" %>
+<center>
+<h2>Welcome to employee Mangement Portal</h2>
+<%String str=(String)request.getAttribute("msg");
+out.println("<h3>"+str+"</h3>");
+
+%>
+<a href="employee">AddEmployee</a>
+<a href="showemployee">ListofEmployee</a>
+</center>
+<c:forEach items="${data}" var="ob">
+<c:out value="${ob}"/></br>
+</c:forEach>

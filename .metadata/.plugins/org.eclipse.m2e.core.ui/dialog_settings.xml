@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\DURGESH\Downloads\RestSwaggerApi"/>
+			<item value="C:\Users\DURGESH\Downloads\OauthDemo"/>
+			<item value="C:\Users\DURGESH\Downloads\Api"/>
+			<item value="C:\Users\DURGESH\Downloads\AauthDemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.preferences.RemoteArchetypeCatalogDialog">
+		<list key="catalogUrl">
+			<item value="http://repo.maven.apache.org/maven2"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\DURGESH\Downloads\Api"/>
+			<item value="E:\Spring-Boot\RestCurdApi\pom.xml"/>
+			<item value="E:\Spring-Boot\RestCurdApi\src\main\java\com\pack\Application.java"/>
+			<item value="E:\Spring-Boot\RestApiFirst\src\main\java\com\pack\HomeController.java"/>
+			<item value="E:\Spring-Boot\LoginApp\src\main\resources\application.yml"/>
+			<item value="E:\Spring-Boot\Boot-non-Wrb\src\main\java\com\pack\Application.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.app"/>
+			<item value="com.pack"/>
+			<item value="com.sathya"/>
+			<item value="com.sathya.ems.entity"/>
+			<item value="com.pack.controller"/>
+			<item value="pack1.com"/>
+		</list>
+		<list key="groupId">
+			<item value="sathyatech.com"/>
+		</list>
+		<list key="artifactId">
+			<item value="AjaxWithMvc"/>
+			<item value="Api1"/>
+			<item value="RestClientApp"/>
+			<item value="RestClientApplication"/>
+			<item value="RestCurdApi"/>
+			<item value="RestApiFirst"/>
+			<item value="Boot_Security"/>
+			<item value="Employee-Management-System"/>
+			<item value="LoginApp"/>
+			<item value="spring-boot-first-mvc"/>
+			<item value="Boot-non-Wrb"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

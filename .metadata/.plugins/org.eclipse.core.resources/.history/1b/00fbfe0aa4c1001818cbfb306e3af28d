@@ -1,0 +1,37 @@
+package com.pack.service;
+
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.pack.model.Employee;
+import com.pack.repository.Reposistory;
+
+public class iServiceImpl implements IServiceDao {
+    @Autowired
+    private Reposistory repo;
+    
+    
+	@Override
+	public boolean saveEmployeeData(Employee e) 
+	{
+		try
+		{
+      repo.saveAndFlush(e);
+		
+	}
+		catch(Exception g)
+		{
+			return false;
+		}
+		return true;
+	}
+
+	@Override
+	public Employee getDataById(int id) {
+	   
+		Employee k=repo.getOne(id);
+		return k;
+	   
+	}
+
+}

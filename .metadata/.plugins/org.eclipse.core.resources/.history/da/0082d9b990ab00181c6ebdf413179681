@@ -1,0 +1,13 @@
+server:
+    port: 4343
+     context-Path: /LoginApp
+   spring:
+         mvc:
+          view:
+             prefix: /
+              suffix: .jsp
+               datasource:
+                  driverClassName: oracle.jdbc.driver.OracleDriver
+                     url: jdbc:oracle:thin:@loclahost:1521:xe
+                     username: system
+                     password: durgesh  

@@ -1,0 +1,9 @@
+server:
+      port: 4242
+      context-path: /RestClientApp
+spring:
+     mvc:
+       view:
+          prefix: /
+          suffix: .jsp
+    

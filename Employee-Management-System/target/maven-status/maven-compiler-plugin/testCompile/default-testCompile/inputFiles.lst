@@ -1,0 +1,9 @@
+E:\Spring-Boot\Employee-Management-System\src\test\java\com\sathya\ems\entity\integration\base\IntegrationTestBase.java
+E:\Spring-Boot\Employee-Management-System\src\test\java\com\sathya\ems\entity\unit\api\AuthorControllerTest.java
+E:\Spring-Boot\Employee-Management-System\src\test\java\com\sathya\ems\entity\unit\web\service\AuthorServiceImplTest.java
+E:\Spring-Boot\Employee-Management-System\src\test\java\com\sathya\ems\entity\integration\base\TestScopeAuthentication.java
+E:\Spring-Boot\Employee-Management-System\src\test\java\com\sathya\ems\entity\config\TestScopeWebSecurityConfigurer.java
+E:\Spring-Boot\Employee-Management-System\src\test\java\com\sathya\ems\entity\unit\api\BookControllerTest.java
+E:\Spring-Boot\Employee-Management-System\src\test\java\com\sathya\ems\entity\integration\api\AuthorControllerTest.java
+E:\Spring-Boot\Employee-Management-System\src\test\java\com\sathya\ems\entity\integration\api\BookControllerTest.java
+E:\Spring-Boot\Employee-Management-System\src\test\java\com\sathya\ems\entity\unit\web\service\BookServiceImplTest.java

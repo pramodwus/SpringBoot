@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1537178245647_1" label="boot-client-application" name="boot-client-application">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/boot-client-application" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1537341963529_2" label="Api" name="Api"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1535127640573_0" label="Window Working Set" name="Aggregate for window 1535127640572"/>
+</workingSetManager>

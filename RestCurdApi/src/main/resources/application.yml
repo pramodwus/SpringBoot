@@ -1,0 +1,20 @@
+
+server:
+  port: 4343
+  servlet:
+      context-path: /RequestApiCurd
+
+spring:
+  datasource:
+     driver-class-name: oracle.jdbc.driver.OracleDriver
+     url: jdbc:oracle:thin:@localhost:1521:xe
+     username: system
+     password: durgesh
+  jpa:
+   show-sql: true
+   hibernate:
+        ddl-auto: update
+  
+  
+
+
