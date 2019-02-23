@@ -26,9 +26,9 @@
 <td><a href="delete?id=${ob.emno}">Delete</a>
 </td>
 </tr>
-  </table> 
+  
 </c:forEach>
 
 </c:if>
-
+  </table>
 </html>
